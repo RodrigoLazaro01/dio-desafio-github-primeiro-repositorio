@@ -2,7 +2,8 @@ CARACTERÍSTICAS DE UM PROGRAMA:
 
 *diretrizes do desenvolvimento de programas: legibilidade, redigibilidade, confiabilidade e custo.
 legibilidade: é um estado que é legível: facilidade de leitura, compreensão, ortogonalidade (coerência das instruções) e definição adequada das estruturas.
--redigibilidade: é a facilidade de escrita do código: pode ser confundido com a legibilidade, ortogonalidade, simplicidade de escrita, suporte à abstração, reuso de código, expressividade (operador ++, uso do for).
+-redigibilidade: é a facilidade de escrita do código: pode ser confundido com a legibilidade, ortogonalidade, simplicidade de escrita, suporte à abstração,
+reuso de código, expressividade (operador ++, uso do for).
 -confiabilidade: faz o que foi programado para fazer. possui verificação de tipos, trata de exceções, uso de ponteiros, tem compatibilidade entre compiladores.
 -custo: análise de impacto. possui treinamento, codificação, compilação, execução e infra-estrutura.
 *Outras características:: atualizações, uso para IA, disponibilidade de ferramentas, comunidade ativa e adoção pelo mercado.
