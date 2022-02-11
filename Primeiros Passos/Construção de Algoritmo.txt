@@ -1,17 +1,10 @@
 CONSTRUÇÃO DE ALGORITMOS:
 
 *Como construir um algoritmo?
-
 -compreensão do problema
-
 -definição dados de entrada
-
 -definir processamento
-
 -definir dados de saída
-
 -utilizar um método de construção
-
 -teste e diagnóstico
-
 -Ferramentas: narrativa (português), fluxograma (uso de símbolos predefinidos) e pseudocódigo (portugol).
