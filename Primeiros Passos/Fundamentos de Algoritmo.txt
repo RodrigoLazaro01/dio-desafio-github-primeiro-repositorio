@@ -1,11 +1,7 @@
 TIPOLOGIA E VARIÁVEIS:
 
 *Tipos de dados: numéricos (inteiros e reais); caractere (“”); lógico (booleano – verdadeiro ou falso)
-
 *variável (pode assumir qualquer um dos valores de um determinado conjunto de valores) e precisam ser previamente identificadas com sua tipologia
-
 -regras: atribuição de um ou mais caracteres; primeira letra não pode ser número; sem espaços em branco; não pode usar palavras reservadas, podem usar caracteres e números.
-
 -papéis: ação (modificação de estado) e controle (vigiada).
-
 *constante: é fixa, estável.
