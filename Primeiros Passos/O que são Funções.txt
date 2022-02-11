@@ -1,9 +1,7 @@
 O QUE SÃO FUNÇÕES:
 
-*Funções: as funções, ou subrotinas, são blocos de instruções que realizam tarefas específicas. É uma decomposição do algoritmo. Leva a uma modularização do problema.
-
+*Funções: as funções, ou subrotinas, são blocos de instruções que realizam tarefas específicas. 
+É uma decomposição do algoritmo. Leva a uma modularização do problema.
 -Definição formal de função: são blocos de instruções (código), identificados por nomes e parâmetros. A assinatura de uma função é seu nome e parâmetro.
-
 -componentes da função: definição – nome – invocação – variável local (são destruídas ao encerrar a função).
-
 -A função funciona pegando um conjunto de dados e gerando um resultado.
