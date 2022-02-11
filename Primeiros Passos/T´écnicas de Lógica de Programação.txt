@@ -1,0 +1,13 @@
+TÉCNICAS DE LÓGICA DE PROGRAMAÇÃO:
+
+*Técnica Linear: modelo tradicional, em vínculo de estrutura hierárquica. Execução sequencial, recursos limitados, única dimensão.
+
+*Técnica estruturada: organização, disposição e ordem dos elementos essenciais que compõem um corpo (concreto ou abstrato). Estrutura hierárquica.
+
+-Objetivo dessa técnica: facilitar a escrita, entendimento, validação e manutenção de programas. Muito usado no processamento de dados.
+
+*Técnica modular: decomposição de um problema em partes independentes para a sua solução. São controladas por um conjunto de regras.
+
+-Modelo padrão: divisão geral em três partes: dados de entrada – processo de transformação – dados de saída.
+
+-Metas dessa técnica: simplificação, decomposição do problema e verificação do módulo (independente).
