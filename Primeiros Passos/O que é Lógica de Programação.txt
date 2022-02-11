@@ -1,9 +1,9 @@
 O QUE É LÓGICA DE PROGRAMAÇÃO:
 
-*Conceito de problema: é uma questão que foge a uma determinada regra, ou melhor, é um desvio de percurso, o qual impede de atingir um objetivo com eficiência e eficácia.
-
-*Conceito de lógica: parte da filosofia que trata das formas de pensamento em geral (dedução, indução, hipótese, inferência, etc.) e das operações intelectuais que visam à determinação do que é verdadeiro ou não.
-
+*Conceito de problema: é uma questão que foge a uma determinada regra, ou melhor, é um desvio de percurso, 
+o qual impede de atingir um objetivo com eficiência e eficácia.
+*Conceito de lógica: parte da filosofia que trata das formas de pensamento em geral (dedução, indução, hipótese, inferência, etc.) 
+e das operações intelectuais que visam à determinação do que é verdadeiro ou não.
 -ordenação que segue convenções; organização coesa; forma como desencadeiam acontecimentos; forma de raciocínio.
-
-*Conceito de lógica aplicado a computação: organização e planejamento de instruções assertivas em um algoritmo, a fim de viabilizar a implantação de um programa.
+*Conceito de lógica aplicado a computação: organização e planejamento de instruções assertivas em um algoritmo,
+a fim de viabilizar a implantação de um programa.
