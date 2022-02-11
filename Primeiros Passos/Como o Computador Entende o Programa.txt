@@ -1,9 +1,6 @@
 COMO O COMPUTADOR ENTENDE O PROGRAMA:
 
 *código fonte: pode ser traduzido ou interpretado.
-
 * tradução: geração do programa objeto e execução do programa objeto. (execução mais rápida)
-
 -linguagem de alto nível (programa fonte) - compilador - assembly (programa objeto) - linguagem de máquina.
-
 *interpretação: o programa fonte é executado diretamente. (programas menores e mais flexibilidade).
