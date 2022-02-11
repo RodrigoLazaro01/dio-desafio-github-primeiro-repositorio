@@ -1,7 +1,9 @@
 ANÁLISES DE CÓDIGO:
 
 *análises: léxica - sintática - semântica
-
--léxica: análise do conjunto de palavras dentro de determinado idioma. particionamento do código fonte em tokens, que são classificados (identificadores, palavras reservadas, números, strings) e são usados na etapa posterior que é a eliminação daquilo que não interessa para a execução do programa (espaços em branco, comentários, etc).
+-léxica: análise do conjunto de palavras dentro de determinado idioma. particionamento do código fonte em tokens,
+que são classificados (identificadores, palavras reservadas, números, strings) e são usados na etapa posterior 
+que é a eliminação daquilo que não interessa para a execução do programa (espaços em branco, comentários, etc).
 -sintática: é componente do sistema linguístico que interligam os constituintes da sentença, atribuindo-lhe uma estrutura (forma)
--semântica: é o estudo do significado. incide sobre a relação entre os significantes, como: palavras, frases, sinais e símbolos. um erro de semântica ocorre quando não faz o que é esperado. (conteúdo)
+-semântica: é o estudo do significado. incide sobre a relação entre os significantes, como: palavras, frases, sinais e símbolos, 
+um erro de semântica ocorre quando não faz o que é esperado. (conteúdo)
