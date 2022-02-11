@@ -1,4 +1,8 @@
 ALGORITMO:
 
-*Algoritmo: é rápido e eficaz, mas não opera sozinho e precisa de instruções detalhadas. É usado para processamento de dados por meio de programas com instruções. A linguagem precisa ser entendida por máquinas e humanos.
--É um processo de resolução de problemas passo a passo usando instruções. O que precisa ser feito e a ordem de execução. Sequência de passos com objetivo definido, execução de tarefas específicas e conjunto de operações que resultam em uma sucessão finita de ações.
+*Algoritmo: é rápido e eficaz, mas não opera sozinho e precisa de instruções detalhadas. 
+É usado para processamento de dados por meio de programas com instruções. 
+A linguagem precisa ser entendida por máquinas e humanos.
+-É um processo de resolução de problemas passo a passo usando instruções. O que precisa ser feito e a ordem de execução.
+Sequência de passos com objetivo definido,
+execução de tarefas específicas e conjunto de operações que resultam em uma sucessão finita de ações.
